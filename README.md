@@ -13,10 +13,18 @@ Developed with Unreal Engine 4.25.1
 # 功能&小案例
 
 ## 滑动UI
-
+演示UI自动滑动
 ```text
     Content\MoveUI
 ```
 效果
 ![move_ui](images/move_ui.gif)
 
+
+## 开关灯
+进入桌子一定的范围，开灯，再次进入关灯
+```text
+    Content\OpenLight
+```
+效果
+![move_ui](images/open_light.gif)

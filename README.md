@@ -3,16 +3,17 @@
 Developed with Unreal Engine 4.25.1
 
 ### UE提供的内容
+创建第三人称模板项目，包括初学者内容，UE提供的内容并未使用git进行管理（案例积累到一定程序，到时打包完整项目，上传百度网盘），你如果clone了本项目，在运行时需要将初学者内容复制到如下目录：
 #### 初学者内容
-项目使用的初学者内容，但并未使用git进行管理，你如果clone了本项目，在运行时需要将初学者内容复制到如下目录：
 ```text
     Content\UE\StarterContent
 ```
-#### 第一人称内容
-项目使用的初学者内容，但并未使用git进行管理，你如果clone了本项目，在运行时需要将初学者内容复制到如下目录：
+#### 第三人称内容
 ```text
-    Content\UE\FirstPerson
-    Content\UE\FirstPersonBP
+    Content\UE\Geometry
+    Content\UE\Mannequin
+    Content\UE\ThirdPerson
+    Content\UE\ThirdPersonBP
 ```
 
 

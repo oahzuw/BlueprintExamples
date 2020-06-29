@@ -12,13 +12,13 @@ Developed with Unreal Engine 4.25.1
 
 # 功能&小案例
 
-## 滑动UI
-演示UI自动滑动
+## 移动的靶子
+移动的靶子
 ```text
-    Content\MoveUI
+    Content\MovingTarget
 ```
 效果
-![move_ui](images/move_ui.gif)
+![move_ui](images/moving_target.gif)
 
 
 ## 开关灯
@@ -28,3 +28,12 @@ Developed with Unreal Engine 4.25.1
 ```
 效果
 ![move_ui](images/open_light.gif)
+
+
+## 滑动UI
+演示UI自动滑动
+```text
+    Content\MoveUI
+```
+效果
+![move_ui](images/move_ui.gif)

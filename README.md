@@ -2,10 +2,17 @@
 
 Developed with Unreal Engine 4.25.1
 
-### 初学者内容
+### UE提供的内容
+#### 初学者内容
 项目使用的初学者内容，但并未使用git进行管理，你如果clone了本项目，在运行时需要将初学者内容复制到如下目录：
 ```text
-    Content\StarterContent
+    Content\UE\StarterContent
+```
+#### 第一人称内容
+项目使用的初学者内容，但并未使用git进行管理，你如果clone了本项目，在运行时需要将初学者内容复制到如下目录：
+```text
+    Content\UE\FirstPerson
+    Content\UE\FirstPersonBP
 ```
 
 

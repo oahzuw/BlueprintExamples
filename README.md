@@ -20,6 +20,15 @@ Developed with Unreal Engine 4.25.1
 
 # 功能&小案例
 
+## 采集物
+支持：人物自动吸引到采集物、吸引过程中缩放、改变颜色
+```text
+    Content\Gather
+```
+效果
+![move_ui](images/gather.gif)
+
+
 ## 移动的靶子
 移动的靶子
 ```text

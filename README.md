@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: images
+---
+
 # BlueprintExamples
 
 Developed with Unreal Engine 4.25.1
@@ -19,6 +23,20 @@ Developed with Unreal Engine 4.25.1
 
 
 # 功能&小案例
+
+## TextRender显示中文
+
+TextRender默认只支持英文显示，可以通过配置字体，设置要显示的文字，来支持中文显示，详细配置看代码吧，弊端是每个要显示的中文内容都要配置字体，尝试做通用字体失败（单个字体不支持大段内容），各位大神有好的方式请告知！
+
+```text
+	Content\ShowCN
+```
+效果
+
+![image-20200702150742375](images/ShowCN.png)
+
+
+
 
 ## 采集物
 支持：人物自动吸引到采集物、吸引过程中缩放、改变颜色

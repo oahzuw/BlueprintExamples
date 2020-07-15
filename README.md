@@ -24,6 +24,16 @@ Developed with Unreal Engine 4.25.1
 
 # 功能&小案例
 
+## 使用UE4播放Dota2模型（狙击手）动画
+3个模型动画：idle，run，death，默认动画 idle，鼠标左键点击模型进行切换。
+```text
+    Content\Sniper
+```
+效果
+![move_ui](images/sniper.gif)
+
+
+
 ## TextRender显示中文
 
 TextRender默认只支持英文显示，可以通过配置字体，设置要显示的文字，来支持中文显示，详细配置看代码吧，弊端是每个要显示的中文内容都要配置字体，尝试做通用字体失败（单个字体不支持大段内容），各位大神有好的方式请告知！
